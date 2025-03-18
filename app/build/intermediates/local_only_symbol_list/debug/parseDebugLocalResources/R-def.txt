@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable p01
+drawable p02
+drawable p03
+drawable p04
+drawable p05
+drawable p06
+drawable p07
+drawable p08
+drawable p09
+drawable p10
+drawable p11
+drawable p12
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Dog
+xml backup_rules
+xml data_extraction_rules

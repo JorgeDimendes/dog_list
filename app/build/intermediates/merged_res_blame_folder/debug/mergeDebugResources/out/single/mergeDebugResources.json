@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p01.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p01.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p03.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p03.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p10.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p10.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p08.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p08.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p05.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p05.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p11.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p11.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.jordev.dog.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p09.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p09.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p07.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p07.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/xml_backup_rules.xml.flat",
+        "source": "com.jordev.dog.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p02.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p02.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p04.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p04.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p06.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p06.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/drawable_p12.jpg.flat",
+        "source": "com.jordev.dog.app-main-55:/drawable/p12.jpg"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jordev.dog.app-debug-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jordev.dog.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
